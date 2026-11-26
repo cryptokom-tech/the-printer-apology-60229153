@@ -36,3 +36,16 @@ order: (1) genuine printer apology with the printer's own gripes,
   rests on one gripe and the same eating premise as #2.
 
 Submitted line: #1.
+
+## Re-check in this build session
+
+Re-reading the twelve against the judge order, #1 still holds up:
+it opens as a plain apology ("Sorry about the jam"), stacks three
+printer-true grievances in the middle (damp, curled, stapled —
+exactly the cheap-paper abuse the brief lists), and saves its joke
+for the final clause, where the printer shifts blame to the paper
+itself. #12 tries the same blame-shift but spends its punch on
+"swear at the paper", which reads as an instruction rather than a
+confession, so #1's deadpan "I just finished what your paper
+started" lands cleaner. At 102 characters #1 also leaves headroom
+under the 120 cap without padding, satisfying the economy check.
